@@ -1,5 +1,3 @@
-// update
-
 const child_process = require('child_process');
 const process = require('process');
 const config = require('./config');
@@ -15,4 +13,4 @@ if (process.platform.startsWith('win')) {
     child_process.execSync(`zip -q -r ${config.unix.path}/browser/omni.ja *`, {cwd: 'browser-omni'});
     child_process.execSync(`zip -q -r ${config.unix.path}/omni.ja *`, {cwd: 'global-omni'});
 }
-console.log('complete!!!');
+console.log('complete build!!!');
