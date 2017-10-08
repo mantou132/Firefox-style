@@ -59,7 +59,7 @@ panel[type="arrow"][side="right"] {
 
 @media (-moz-os-version: windows-win7) {
 .panel-arrowcontent {
-  border-radius: 4px;
+  /* border-radius: 4px; */
 }
 }
 
