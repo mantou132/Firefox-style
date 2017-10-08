@@ -1,0 +1,20 @@
+{
+  "name": "firefox-style",
+  "version": "1.0.0",
+  "description": "Firefox native chrome and devTools style",
+  "main": "index.js",
+  "scripts": {
+    "pack": "node pack.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantou132/Firefox-style.git"
+  },
+  "author": "mt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mantou132/Firefox-style/issues"
+  },
+  "homepage": "https://github.com/mantou132/Firefox-style#readme"
+}

@@ -1,0 +1,8 @@
+{
+    "win": {
+        "path": "D:\\Program Files\\Mozilla Firefox Nightly"
+    },
+    "unix": {
+        "path": "/home/upyun/.mozilla/firefox"
+    }
+}
